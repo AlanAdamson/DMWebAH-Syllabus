@@ -450,7 +450,7 @@
   - Students will be able to explain what AJAX is
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
-  - [Chatroom](https://github.com/DevMountain/chatroom)
+  - [Cookie Chat](https://github.com/DevMountain/cookie-chat)
 - Assessment
   - [AngularJS III - $http](https://codecard.io/a/cardio-preview/7465nq9JV)
 - Weeklong Challenge:
@@ -509,8 +509,7 @@
 - Assessment:
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 - Weeklong Challenge:
-  - [Quiz App Repo](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -522,8 +521,6 @@
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
-- Mini Project:
-  - [Quiz](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
   - Students will understand the methodology behind routing and templating
   - Students will be able to set up a basic routing system with multiple views and controllers using UI-Router
@@ -535,8 +532,7 @@
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 - Weeklong Challenge:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)  
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -555,9 +551,8 @@
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
-- Weeklong Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+- Project:
+  - [Lesson-Hider-Directive](https://github.com/DevMountain/lesson-hider-directive)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -573,8 +568,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+  - [Lesson-Hider-Directive](https://github.com/DevMountain/lesson-hider-directive)
 - Additional Reading:
   - [PRankings Directive](https://github.com/squireaj/PRankings)
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
@@ -583,27 +577,19 @@
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day92"></a> Day 2 - Firebase I
+#### <a name="day92"></a> Day 2 - ES6
 - Pre-Reading:
-  - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
-- Lesson Video:
-  - [Firebase](https://vimeo.com/150932130) - 1 hour 42 minutes
+  - [Top 10 ES6 Features](http://webapplog.com/es6/)
+  - [Overview of ES6 Features](https://github.com/lukehoban/es6features)
 - Learning Objectives
-  - Students will understand the term CRUD
-  - Students will be able to use Firebase in angular to persist data to a server
-- Mini-Project : [CarFire](https://github.com/DevMountain/carFire)
+  - Students will understand the major features of ES6.
 - Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 3](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
-- Additional Reading:
+  - [ES6 Day](https://github.com/r-walsh/es6-day)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day93"></a> Day 3 - Angular & Firebase Review II
-- Review & Finish Quiz App
-- Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 3 and BD's](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+#### <a name="day93"></a> Day 3 - Angular & ES6 Review II
+- Review & Finish Intern Project, any Angular projects.
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -622,8 +608,7 @@
   - Student can create a HTTP NodeJS server using express
   - Students can explain endpoints and create basic ones testing them with Postman
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 1](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [Chatty App](https://github.com/DevMountain/chatty)
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
@@ -631,7 +616,7 @@
 - Lesson Video:
   - [NodeJS II](https://vimeo.com/151814040) - 1 hour 55 minutes
 - Mini Project:
-  - Rewrite in Progress
+  - Review Chatty/Build a basic API
 - Learning Objectives
   - Student can require other .js files in the project
   - Student can use bodyParser to get data out of the body
@@ -640,73 +625,77 @@
   - Student understands the request response lifecycle in express including the order in which functions are called
   - Student can utilize middleware
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 2](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
 #### <a name="day103"></a> Day 3 - NodeJS III
 - Lesson Video:
   - [Node III](https://vimeo.com/145906798) - 2 hours 10 minutes
 - Mini Project:
-  - Rewrite in Progress
+  - [Simple Node](https://github.com/DevMountain/simple-node-connect-drill)
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
   - Student can use route params to make dynamic endpoints
   - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 3](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [User Profiles](https://github.com/DevMountain/user-profiles)
 - Additional Reading:
 
 ## <a name="week11"></a> Week 11
-#### <a name="day111"></a> Day 1 - MongoDB I
+#### <a name="day111"></a> Day 1 - SQL I
 - Lesson Video:
-  - [Mongo I](https://vimeo.com/140831164) - 1 hour 41 minutes
+  - [SQL I](https://vimeo.com/album/4144340/video/187705552)
 - Before class:
-  - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
+  - SQL Bolt Tutorials 1-5, 13, 16-17(https://sqlbolt.com/))
 - Mini Project:
-  - [Birds](https://github.com/jacob-israel-turner/mini-birds)
+  - [Simple Mini](https://github.com/DevMountain/simple-sql-queries)
 - Learning Objectives
-   - Understand the DB's place in the web app landscape (MongoDB vs DBaaS like Firebase)
-   - Understand DBs, Collections, and Documents
-   - Understand CRUD operations with MongoDB
+   - Understand how to write SQL queries to select records from a single table
+   - Understand how to write SQL queries to create a table
+   - Understand how to write SQL queries to create records for a single table
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 4](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
-- Additional Reading:
+  - [Simple Queries](https://github.com/DevMountain/simple-sql-queries-afternoon)
+- Note:
+  - You will want to get started on Day 2 when you finish this one.
 
-#### <a name="day112"></a> Day 2 - MongoDB II
+#### <a name="day112"></a> Day 2 - SQL II
 - Lesson Video:
-  - [Mongo II](https://vimeo.com/146151652) - 1 hour 20 minutes
+  - [SQL II](https://vimeo.com/album/4144340/video/187869904)
+- Before class:
+  - SQL Bolt Tutorials 6-12, 14-15, 18(https://sqlbolt.com/))
 - Mini Project:
-  - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
+  - [Intermediate Mini](https://github.com/DevMountain/intermediate-sql-queries)
 - Learning Objectives
-  - understand what object modeling is and why it’s used
-  - understand the difference between Mongoose and MongoJS
+  - Understand how to write SQL queries to select records from multiple tables
+  - Understand how to write SQL queries to edit records
+  - Understand how to write SQL queries to delete records
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 5](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
-- Additional Reading:
+  - [Intermediate Queries](https://github.com/DevMountain/intermediate-sql-queries-afternoon) 
 
-#### <a name="day113"></a> Day 3 -  MongoDB III
+#### <a name="day113"></a> Day 3 -  Postgres I
 - Lesson Video:
-  - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
- - Mini Project:
-  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/PART-II-README.md)
- - Learning Objectives
+  - [SQL III](https://vimeo.com/album/4144340/video/188030567)
+- Before class:
+  - Install [PostgresSQL](https://www.postgresql.org/)
+  - Install [pgAdmin](https://www.pgadmin.org/) 
+  - Video Tutorial for installation [Here](https://www.youtube.com/watch?v=ghTksCsFBcI&ab_channel=ProgrammingKnowledge)
+  - [Setting up a Postgres DB](https://www.youtube.com/watch?v=1wvDVBjNDys&ab_channel=EnterpriseDB)
+  - [MassiveJS Docs](https://massive-js.readthedocs.io/en/latest/)
+- Mini Project:
+  - [Mini Massive](https://github.com/DevMountain/mini-sql-node-massive)
+- Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 6](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [Massive Project](https://github.com/DevMountain/sql-massive-node)
  - Additional Reading:
 
 ## <a name="week12"></a> Week 12
 #### <a name="day121"></a> Day 1 - NodeJS IV & Ecommerce Project
  - Lesson Video:
-   - [NodeJS Auth - Passport](https://vimeo.com/groups/devmtnaf/videos/158525109) - 1 hour 13 minutes
+   - [NodeJS Auth - Passport](https://vimeo.com/170991611) - 1 hour 33 minutes
 - Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
@@ -714,59 +703,53 @@
   - Student can use express sessions to restrict access to resources
   - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 - Additional Reading:
 
 #### <a name="day122"></a> Day 2 -  Ecommerce Project Day II
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day123"></a> Day 3 -  Ecommerce Project Day III & Code Reviews
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 ## <a name="week13"></a> Week 13
 #### <a name="day131"></a> Day 1 -  Ecommerce Project Day IV
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
-
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
+  
 #### <a name="day133"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 ## <a name="week14"></a> Week 14
 #### <a name="day141"></a> Day 1 -  Ecommerce Project Day VII
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day142"></a> Day 2 -  Ecommerce Project Day VIII
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 #### <a name="day143"></a> Day 3 -  Ecommerce Project Day IX & Code Reviews
 - Project:
-  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
-  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce/tree/sql)
 
 ## <a name="week15"></a> Week 15
 #### <a name="day151"></a> Day 1 - React I
 - Pre-Reading:
+  - [Webpack Tutorial](https://webpack.github.io/docs/tutorials/getting-started/)
+  - [The React Way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+  - [Bonus: Survive JS](http://survivejs.com/react/getting-started/introduction-to-react/)
 - Lesson Video:
   No video for this lesson.
 - Learning Objectives
-  - Understand how React compares to other Front End frameworks like Angular and Ember
+  - Understand how React compares to other Front End frameworks like Angular
   - Understand how to use Webpack to set up a build process for your React App
   - Understand how to build a component which modifies and maintains it’s own state
   - Understand how to pass data into child components as props
@@ -774,20 +757,25 @@
 CSS in React
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [React Friends](https://github.com/DevMountain/react-friends)
+  - [React Friends](https://github.com/DevMountain/react-friends-ah)
 - Additional Reading:
 
 #### <a name="day152"></a> Day 2 - React I Workday
 - Pre-Reading:
+  - [Webpack Tutorial](https://webpack.github.io/docs/tutorials/getting-started/)
+  - [The React Way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+  - [Bonus: Survive JS](http://survivejs.com/react/getting-started/introduction-to-react/)
 - Lesson Video:
   No Video for Today
 - Learning Objectives
-  - Understand the Life Cycle of a Components
-  - Understand how to use propTypes and getDefaultProps
-  - Understand what Mixins are and how they’re useful
-  - How to use React w/ jQuery and specifically to make Ajax requests
+  - Understand how React compares to other Front End frameworks like Angular
+  - Understand how to use Webpack to set up a build process for your React App
+  - Understand how to build a component which modifies and maintains it’s own state
+  - Understand how to pass data into child components as props
+  - Understand how to use CSS with React as well as “inline” styles
+  - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [React Friends](https://github.com/DevMountain/react-friends)
+  - [React Friends](https://github.com/DevMountain/react-friends-ah)
 - Additional Reading:
 
 #### <a name="day153"></a> Day 3 - React II
@@ -800,7 +788,7 @@ CSS in React
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [React Emporium](https://github.com/DevMountain/react-emporium)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 ## <a name="week16"></a> Week 16
@@ -814,7 +802,7 @@ CSS in React
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [React Emporium](https://github.com/DevMountain/react-emporium)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 #### <a name="day162"></a> Day 2 - React III
@@ -829,7 +817,7 @@ CSS in React
     - containers
     - reducers
 - Project:
-  - [React Mail](https://github.com/DevMountain/react-mail)
+  - [React Emporium](https://github.com/DevMountain/react-emporium)
 - Additional Reading:
 
 #### <a name="day163"></a> Day 3 - Final Workday / Class Wrap-up
@@ -837,7 +825,7 @@ CSS in React
 - Lesson Video:
   No Video for Today
 - Project:
-  - [React Mail](https://github.com/DevMountain/react-mail)
+  - [React Emporium](https://github.com/DevMountain/react-emporium)
 
 ### Copyright
 
